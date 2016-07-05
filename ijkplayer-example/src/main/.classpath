@@ -9,7 +9,6 @@
 	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/ijkplayer-armv5"/>
 	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/ijkplayer-armv7a"/>
 	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/ijkplayer-java"/>
-	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/ijkplayer-x86"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="output" path="bin/classes"/>

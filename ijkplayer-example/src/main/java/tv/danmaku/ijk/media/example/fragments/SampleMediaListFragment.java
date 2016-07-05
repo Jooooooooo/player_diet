@@ -71,8 +71,8 @@ public class SampleMediaListFragment extends Fragment {
         mAdapter.addItem("http://121.135.198.97/ontv/33573/T33573_202_160701.ts", "TS");
         mAdapter.addItem("http://121.135.198.97/ontv/33573/T33573_202_160701.m3u8", "M3U8");
         mAdapter.addItem("http://121.135.198.97/ontv/91777/T91777_121_160629.mp4", "MP4");
-        mAdapter.addItem("http://121.135.198.97", "bipbop basic 640x480 @ 1 Mbps");
-        mAdapter.addItem("http://121.135.198.97", "bipbop basic 960x720 @ 2 Mbps");
+        mAdapter.addItem("http://us.live.npvr.net/sj/mbc/sbs.stream/playlist.m3u8", "bipbop basic 640x480 @ 1 Mbps");
+        mAdapter.addItem("http://us.live.npvr.net/sj/mbc/mbc.stream/playlist.m3u8", "bipbop basic 960x720 @ 2 Mbps");
         mAdapter.addItem("http://121.135.198.97", "bipbop basic 22.050Hz stereo @ 40 kbps");
         mAdapter.addItem("http://121.135.198.97", "bipbop advanced master playlist");
         mAdapter.addItem("http://121.135.198.97", "bipbop advanced 416x234 @ 265 kbps");

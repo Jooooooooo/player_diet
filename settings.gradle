@@ -1,7 +1,6 @@
-include ':ijkplayer-armv7a-release'
+include ':ijkplayer-armv7a-release', ':ijkplayer-exo-release'
 
 include ':ijkplayer-java'
-include ':ijkplayer-exo'
 
 include ':ijkplayer-example'
 

@@ -96,6 +96,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/player_diet/ijkplayer-armv7a-release/unspecified/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/player_diet/ijkplayer-exo-release/unspecified/jars" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/player_diet/ijkplayer-java-release/unspecified/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jacoco" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/javaResources" />
@@ -119,10 +120,11 @@
     <orderEntry type="library" exported="" name="support-v4-23.0.1" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-23.0.1" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-23.0.1" level="project" />
-    <orderEntry type="module" module-name="ijkplayer-java" exported="" />
     <orderEntry type="module" module-name="ijkplayer-armv7a-release" exported="" />
     <orderEntry type="module" module-name="ijkplayer-exo-release" exported="" />
+    <orderEntry type="module" module-name="ijkplayer-java-release" exported="" />
     <orderEntry type="library" exported="" name="ijkplayer-armv7a-release-unspecified" level="project" />
     <orderEntry type="library" exported="" name="ijkplayer-exo-release-unspecified" level="project" />
+    <orderEntry type="library" exported="" name="ijkplayer-java-release-unspecified" level="project" />
   </component>
 </module>

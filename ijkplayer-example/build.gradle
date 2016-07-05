@@ -25,7 +25,6 @@ android {
         all64 { minSdkVersion 21 }
         // armv5 {}
         // armv7a {}
-        // arm64 { minSdkVersion 21 }
     }
 }
 
@@ -45,9 +44,7 @@ dependencies {
 
     all64Compile project(':ijkplayer-armv5')
     all64Compile project(':ijkplayer-armv7a')
-    all64Compile project(':ijkplayer-arm64')
 
     // armv5Compile project(':player-armv5')
     // armv7aCompile project(':player-armv7a')
-    // arm64Compile project(':player-arm64')
 }

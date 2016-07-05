@@ -23,7 +23,6 @@ android {
     productFlavors {
         all32 { minSdkVersion 9 }
         all64 { minSdkVersion 21 }
-        // armv7a {}
     }
 }
 
@@ -32,15 +31,8 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.0.1'
     compile 'com.android.support:preference-v7:23.0.1'
     compile 'com.android.support:support-annotations:23.0.1'
-
     compile 'com.squareup:otto:1.3.8'
-
     compile project(':ijkplayer-java')
     compile project(':ijkplayer-exo')
-
-    all32Compile project(':ijkplayer-armv7a')
-
-    all64Compile project(':ijkplayer-armv7a')
-
-    // armv7aCompile project(':player-armv7a')
+    compile project(':ijkplayer-armv7a-release')
 }

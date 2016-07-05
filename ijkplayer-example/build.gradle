@@ -23,7 +23,6 @@ android {
     productFlavors {
         all32 { minSdkVersion 9 }
         all64 { minSdkVersion 21 }
-        // armv5 {}
         // armv7a {}
     }
 }
@@ -39,12 +38,9 @@ dependencies {
     compile project(':ijkplayer-java')
     compile project(':ijkplayer-exo')
 
-    all32Compile project(':ijkplayer-armv5')
     all32Compile project(':ijkplayer-armv7a')
 
-    all64Compile project(':ijkplayer-armv5')
     all64Compile project(':ijkplayer-armv7a')
 
-    // armv5Compile project(':player-armv5')
     // armv7aCompile project(':player-armv7a')
 }
